@@ -165,7 +165,6 @@
 				  color: #ed1846;
 			  
 			  }
-			  .
 			  
 			  a:hover{
 				  color: green;
@@ -214,6 +213,12 @@
 				margin: auto;
 				border: 3px dashed white;
 				clear: both;
+			  }
+			  .columnstruct{
+				font-family: 'Amatic SC', cursive;
+				color: white;
+				padding: 3%;
+				font-size: 2vw;
 			  
 			  }
 			  .icecreamshop{
@@ -314,4 +319,10 @@
 				  .struct{
 					  background-color: blue;
 				  }
+			  }
+			  #bottom_footer{
+				width: 100%;
+				clear: both;
+				height: 75px;
+				background-color: #474747;
 			  }
